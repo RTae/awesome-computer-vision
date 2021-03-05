@@ -729,7 +729,8 @@ Non-uniform Deblurring
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [Cat Paper Collection](http://www.eecs.berkeley.edu/~junyanz/cat/cat_papers.html)
 * [Computer Vision News](http://www.rsipvision.com/computer-vision-news/)
-*
+* [Book from Circiut Noob](https://circuitnoob.com)
+
 ## Songs
 * [The Fundamental Matrix Song](http://danielwedge.com/fmatrix/)
 * [The RANSAC Song](http://danielwedge.com/ransac/)
